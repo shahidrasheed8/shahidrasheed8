@@ -1,4 +1,17 @@
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0066cc&height=200&section=header&text=Shahid%20Rasheed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Laravel%20Expert&descAlignY=55&descSize=18" width="100%"/>
+
 ### Hi there 👋 I'm Shahid Rasheed
+
+<!-- Animated Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0066CC&center=true&vCenter=true&random=false&width=600&lines=Shahid+Rasheed;Backend+Developer;Laravel+%7C+PHP+%7C+MySQL+%7C+Livewire;3%2B+Years+of+Experience;Building+Enterprise+Applications" alt="Typing SVG" /></a>
+</p>
+
+<!-- Animated Wave -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="wave"/>
+</p>
 
 <h3 align="center">Backend Developer | PHP Laravel • MySQL • Livewire</h3>
 
@@ -35,7 +48,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
     <td align="center" width="96">
@@ -67,33 +80,33 @@
       <br>GitHub
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
+ <tr>
+      <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
-    </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-    <td align="center" width="96">
+            <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+              <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       <br>jQuery
     </td>
-    <td align="center" width="96">
+              <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
-    <td align="center" width="96">
+              <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
@@ -151,7 +164,7 @@
         <li>Payment Gateways (Paystack, Flutterwave)</li>
       </ul>
     </td>
-  </tr>
+ </tr>
 </table>
 
 ---
@@ -280,9 +293,33 @@ Complete real estate CRM with property inventory management, lead management, co
 
 ---
 
+<!-- Snake Animation -->
+<h3 align="center">🐍 Contribution Graph</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidrasheed8&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+---
+
+<!-- GitHub Trophies -->
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahidrasheed8&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
+</p>
+
+---
+
 <p align="center">
   <i>💡 Open to exciting opportunities in Laravel/PHP backend development!</i>
 </p>
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0066cc&height=100&section=footer" width="100%"/>
 
 <p align="center">
   <sub>Last Updated: December 2025</sub>
