@@ -206,7 +206,7 @@ End-to-end recruitment management featuring:
 
 ---
 
-### 🏢 NahjUpdated — HRMS Platform
+### 🏢 Nahj— HRMS Platform
 > **Live:** [nahjerp.com](https://nahjerp.com)  
 > **Tech Stack:** Laravel 11, PHP 8.2, MySQL, Laravel Passport, Laratrust
 
@@ -232,7 +232,7 @@ Complete real estate CRM with property inventory management, lead management, co
 
 ## 💼 Professional Experience
 
-### Backend Developer @ Adamson's Trading
+### Backend Developer @ Media Junkei
 **📅 August 2025 – Present** | Lahore, Pakistan
 
 - Led development of enterprise HR & task management platform
