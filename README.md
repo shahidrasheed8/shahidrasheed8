@@ -206,7 +206,7 @@ End-to-end recruitment management featuring:
 
 ---
 
-### 🏢 Nahj— HRMS Platform
+### 🏢 HRMS Platform
 > **Live:** [nahjerp.com](https://nahjerp.com)  
 > **Tech Stack:** Laravel 11, PHP 8.2, MySQL, Laravel Passport, Laratrust
 
