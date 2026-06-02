@@ -1,120 +1,11 @@
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0066cc&height=200&section=header&text=Shahid%20Rasheed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Laravel%20Expert&descAlignY=55&descSize=18" width="100%"/>
-
-### Hi there 👋 I'm Shahid Rasheed
-
-<!-- Animated Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0066CC&center=true&vCenter=true&random=false&width=600&lines=Shahid+Rasheed;Backend+Developer;Laravel+%7C+PHP+%7C+MySQL+%7C+Livewire;3%2B+Years+of+Experience;Building+Enterprise+Applications" alt="Typing SVG" /></a>
-</p>
-
-<!-- Animated Wave -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="wave"/>
-</p>
-
-<h3 align="center">Backend Developer | PHP Laravel • MySQL • Livewire</h3>
-
-<p align="center">
-  <a href="https://shahidrasheed.me"><img src="https://img.shields.io/badge/Portfolio-shahidrasheed.me-0066cc?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:shahidrasheedsmm@gmail.com"><img src="https://img.shields.io/badge/Email-shahidrasheedsmm@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/shahidrasheed8"><img src="https://img.shields.io/badge/GitHub-shahidrasheed8-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/shahidrasheed8/"><img src="https://img.shields.io/badge/LinkedIn-shahidrasheed8-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/shahidxbhatti"><img src="https://img.shields.io/badge/Twitter-@shahidxbhatti-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</p>
-
-<p align="center">
-  📍 Lahore, Punjab, Pakistan &nbsp;|&nbsp; 📞 +92 306 287 2169
-</p>
-
----
-
 ## 👨‍💻 About Me
 
-**Highly Skilled Laravel Developer** with comprehensive proficiency in enterprise-level application development. Specialized in Laravel (8, 10, 11) backend architecture and modern reactive frontend technologies (Livewire 3, Bootstrap).
+Full-Stack Developer with 3+ years of professional experience building enterprise-grade web and mobile applications. Specialized in Laravel (8, 10, 11, 12), PHP 8.1+, MySQL, Livewire 3, and RESTful API development with hands-on experience in React Native.
 
-- 🔭 **Currently working on:** Real Estate Property Listing Platform (Ashley Fox)
-- 🌱 **Expertise in:** Laravel, PHP, MySQL, Livewire 3, REST APIs, Real-time Systems
-- 💼 **Experience:** 3+ years building enterprise applications (HRMS, CRM, Task Management)
-- ⚡ **Fun fact:** I've built systems serving thousands of users across multiple domains
-
----
-
-## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" width="48" height="48" alt="Livewire" />
-      <br>Livewire
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-      </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-            <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-              <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-              <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-              <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-      <br>VSCode
-    </td>
-  </tr>
-</table>
+- 🔭 Currently working on: MediTech — Aesthetic Clinic Marketplace
+- 🌱 Expertise in: Laravel, PHP, MySQL, Livewire 3, REST APIs, Real-time Systems
+- 💼 Built scalable platforms across HRMS, CRM, Recruitment, Real Estate, and Marketplace domains
+- ⚡ Strong focus on clean architecture, real-time systems, and third-party integrations
 
 ---
 
@@ -125,20 +16,20 @@
     <td>
       <h4>🔧 Backend Development</h4>
       <ul>
-        <li>Laravel 10, 11 (Expert)</li>
-        <li>PHP 8.1+ (Advanced)</li>
+        <li>Laravel 8/10/11/12</li>
+        <li>PHP 7.4 / 8.1+</li>
         <li>RESTful API Design</li>
         <li>Eloquent ORM</li>
-        <li>Database Architecture (MySQL)</li>
+        <li>Database Architecture & Query Optimization</li>
       </ul>
     </td>
     <td>
       <h4>🎨 Frontend Development</h4>
       <ul>
-        <li>Livewire 3 (Expert)</li>
+        <li>Livewire 3</li>
         <li>Blade Templating</li>
         <li>Bootstrap 5</li>
-        <li>Vite 6, 7</li>
+        <li>Tailwind CSS</li>
         <li>JavaScript / jQuery</li>
       </ul>
     </td>
@@ -148,20 +39,20 @@
       <h4>⚡ Real-time & Enterprise</h4>
       <ul>
         <li>Pusher & Laravel Echo</li>
-        <li>WebSocket Integration</li>
-        <li>OAuth2 & API Security</li>
-        <li>Role-Based Access Control</li>
-        <li>Biometric Device Integration</li>
+        <li>WebSocket / SSE Integration</li>
+        <li>OAuth2 & Multi-Guard Authentication</li>
+        <li>RBAC & Permission Systems</li>
+        <li>ZKTeco Biometric Integration</li>
       </ul>
     </td>
     <td>
-      <h4>📦 Specialized Libraries</h4>
+      <h4>📦 Integrations & Tools</h4>
       <ul>
-        <li>Laravel Passport (OAuth2)</li>
-        <li>Spatie Permission & Activity Log</li>
         <li>Google Cloud APIs</li>
+        <li>Paystack / Flutterwave / Stripe</li>
+        <li>Dropbox & IMAP Integration</li>
+        <li>Spatie Permission & Activity Log</li>
         <li>PHPSpreadsheet / MPDF</li>
-        <li>Payment Gateways (Paystack, Flutterwave)</li>
       </ul>
     </td>
  </tr>
@@ -171,156 +62,95 @@
 
 ## 🚀 Featured Projects
 
-### 🏠 Ashley Fox — Real Estate Property Listing Platform
-> **Status:** 🔨 Currently in Development  
-> **Tech Stack:** Laravel, PHP, MySQL, Bootstrap
+### 🏠 ShortStay — Vacation Rental Marketplace
+> **Tech Stack:** Laravel 12, PHP 8.2+, MySQL
 
-A comprehensive property listing platform similar to Rightmove, enabling real estate professionals to list, manage, and sell properties online. Features advanced property search, media galleries, comparative market analysis, and property management dashboard.
+Two-sided vacation rental marketplace with host/traveler roles, availability-based search, booking management, dynamic pricing, real-time messaging, and reservation workflows.
 
 ---
 
-### 📋 Task Management System (TMS)
-> **Live:** [tms.adamsonstrading.co.uk](https://tms.adamsonstrading.co.uk)  
-> **Tech Stack:** Laravel 10, PHP 8.1+, MySQL, Livewire 3, Bootstrap 5, Vite 7
+### 📋 TMS — Enterprise Task, HR & Lead Management Platform
+> **Live:** [tms.adamsonstrading.co.uk](https://tms.adamsonstrading.co.uk)
 
-Enterprise-level task management & HR platform with:
-- ✅ 22+ major modules with 24 Eloquent models
-- ✅ 77+ database migrations
-- ✅ Real-time Slack-like chat with typing indicators
-- ✅ ZKTeco biometric device integration
-- ✅ Salary management with grace periods & penalties
-- ✅ Task approval workflows & activity logging
+Enterprise platform combining Task Management, HR Management, and Lead Management with approvals, attendance tracking, payroll, reporting, and real-time team collaboration tools.
 
 ---
 
 ### 👥 Recruit CRM — Recruitment Management System
-> **Live:** [recruitmentcrm.co.uk](https://recruitmentcrm.co.uk)  
-> **Tech Stack:** Laravel 11, PHP 8.2+, MySQL, Vite, Spatie Permission
+> **Live:** [recruitmentcrm.co.uk](https://recruitmentcrm.co.uk)
 
-End-to-end recruitment management featuring:
-- ✅ OCR-based CV parsing (PDF, DOCX, images)
-- ✅ Google Cloud Vision integration
-- ✅ Gmail/IMAP & Google Calendar integration
-- ✅ CV Builder with 10+ templates
-- ✅ AI-powered job description generation
+Recruitment management system with OCR-based CV parsing, candidate pipelines, interview scheduling, AI-assisted job descriptions, and recruiter collaboration.
 
 ---
 
-### 🏢 HRMS Platform
-> **Live:** [nahjerp.com](https://nahjerp.com)  
-> **Tech Stack:** Laravel 11, PHP 8.2, MySQL, Laravel Passport, Laratrust
+### 🏢 NahjUpdated — HRMS
+> **Live:** [nahjerp.com](https://nahjerp.com)
 
-Comprehensive HRMS with employee management, hiring process, help desk ticketing, task management, real-time notifications, Google Cloud Storage, and HelloSign integration.
+Comprehensive HR management platform with employee onboarding, hiring workflows, help desk ticketing, real-time notifications, document signing, and role-based access control.
 
 ---
 
 ### 🌟 Staggar — Celebrity-Fan Interaction Platform
-> **Live:** [staggar.com](https://staggar.com)  
-> **Tech Stack:** Laravel 8, PHP 7.4+, MySQL, Pusher, Paystack, Flutterwave
+> **Live:** [staggar.com](https://staggar.com)
 
-Celebrity-fan engagement platform with monetized video messages, live calls, webinar hosting, and multi-currency payment processing.
+Celebrity monetization platform featuring personalized video/audio requests, live video calls, webinars, real-time chat, and multi-currency payment processing.
 
 ---
 
 ### 🏘️ PropCo CRM — Real Estate CRM
-> **Live:** [propcocrm.com](https://propcocrm.com)  
-> **Tech Stack:** Laravel 10, PHP 8.1+, MySQL, Livewire, Laratrust
+> **Live:** [propcocrm.com](https://propcocrm.com)
 
-Complete real estate CRM with property inventory management, lead management, contact relationships, and Dropbox integration.
+Real estate CRM with inventory management, lead tracking, appointment scheduling, requirement matching, and document management.
+
+---
+
+### 💉 MediTech — Aesthetic Clinic Marketplace
+> **Status:** In Progress
+
+Two-sided marketplace for aesthetic clinics with booking management, geo-targeted campaigns, clinic portals, admin dashboards, and social engagement features.
 
 ---
 
 ## 💼 Professional Experience
 
-### Backend Developer @ Media Junkei
+### Backend Developer @ Media Junkie
 **📅 August 2025 – Present** | Lahore, Pakistan
 
-- Led development of enterprise HR & task management platform
-- Implemented real-time chat with Laravel Echo & Pusher
-- Integrated ZKTeco biometric devices for attendance
-- Built comprehensive recruitment CRM with OCR CV parsing
+- Architected ShortStay — a vacation rental marketplace with booking workflows, availability search, dynamic pricing, and real-time messaging
+- Led development of TMS — enterprise platform combining Task Management, HR Management, and Lead Management
+- Built Recruit CRM with OCR-based CV parsing, candidate pipelines, AI-assisted workflows, and recruiter collaboration tools
+- Delivered real-time Slack-style communication systems with typing indicators, mentions, and channel-based messaging
+
+---
 
 ### Laravel Developer @ Reownlogics
 **📅 March 2024 – August 2025** | Lahore, Pakistan
 
-- Developed robust backend systems using Laravel 8/10/11
-- Integrated payment gateways (Paystack, Flutterwave)
-- Implemented real-time notifications and chat systems
-- Delivered HRMS, CRM, and fan engagement platforms
+- Developed scalable business platforms including HRMS, Real Estate CRM, and celebrity-fan engagement systems
+- Integrated multi-currency payment gateways, real-time notifications, webinar systems, and live chat features
+- Implemented secure authentication, RBAC systems, OAuth integrations, and RESTful APIs
+- Delivered multiple production-ready enterprise applications for international clients
+
+---
 
 ### Junior Web Developer @ Finjineers
 **📅 January 2023 – March 2024** | Lahore, Pakistan
 
-- Built responsive interfaces using HTML, CSS, JavaScript
-- Implemented backend systems using Laravel & PHP
-- Designed and optimized MySQL databases
-- Developed APIs for frontend-backend communication
+- Developed responsive web applications using Laravel, PHP, JavaScript, HTML, and CSS
+- Built and optimized RESTful APIs and relational database systems
+- Implemented authentication systems, role-based permissions, and backend integrations
+- Collaborated on frontend/backend development and deployment workflows
 
 ---
 
 ## 🎓 Education
 
-**Associate's Degree in Computer Science**  
-📍 University of the Punjab, Lahore, Pakistan  
+### Associate's Degree in Computer Science
+📍 University of the Punjab — Lahore, Pakistan  
 📅 October 2018 – April 2020
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahidrasheed8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidrasheed8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidrasheed8&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://shahidrasheed.me"><img src="https://img.shields.io/badge/🌐_Portfolio-shahidrasheed.me-0066cc?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="mailto:shahidrasheedsmm@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/shahidrasheed8/"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahidrasheed8&color=0066cc&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</p>
-
----
-
-<!-- Snake Animation -->
-<h3 align="center">🐍 Contribution Graph</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidrasheed8&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
----
-
-<!-- GitHub Trophies -->
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahidrasheed8&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
-</p>
-
----
-
-<p align="center">
-  <i>💡 Open to exciting opportunities in Laravel/PHP backend development!</i>
-</p>
-
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0066cc&height=100&section=footer" width="100%"/>
-
-<p align="center">
-  <sub>Last Updated: December 2025</sub>
+  <i>💡 Open to Laravel, PHP Backend, and Full-Stack Development opportunities.</i>
 </p>
